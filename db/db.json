@@ -1,0 +1,102 @@
+{
+    "items": [
+            {
+              "id": 1,
+              "title": "Love Story",
+              "singer": "Indila",
+              "genre": "Romantic",
+              "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/036/155/574/small/ai-generated-silhouette-of-a-young-couple-in-love-on-the-background-of-a-beautiful-sunset-photo.jpg",
+              "songUrl": "Songs/Indila - Love Story [16D AUDIO  NOT 8D].mp3"
+            },
+            {
+              "id": 2,
+              "title": "Blue",
+              "singer": "yung kai",
+              "genre": "Melody",
+              "imageUrl": "https://i.ytimg.com/vi/4adZ7AguVcw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWEvOTBmHbMxZp2aecFbX5a6VIKw",
+              "songUrl": "Songs/yung kai - blue (Official Audio).mp3"
+            },
+            {
+              "id": 3,
+              "title": "Urban Rhythm",
+              "singer": "Metro Beats",
+              "genre": "Hip Hop",
+              "imageUrl": "https://th.bing.com/th/id/OIP.qe_A64mC6DSGoQzS6zJRlwHaEK?w=292&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Acoustic Sunset",
+              "singer": "Melody Woods",
+              "genre": "Acoustic",
+              "imageUrl": "https://s.tmimgcdn.com/scr/800x500/105400/acoustic-sunset-audio-track_105418-original.jpg",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
+            },
+            {
+              "id": 5,
+              "title": "Electric Dreams",
+              "singer": "Synth Master",
+              "genre": "Electronic",
+              "imageUrl": "https://images.unsplash.com/photo-1550895030-823330fc2551?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Jazz Cafe",
+              "singer": "Smooth Quartet",
+              "genre": "Jazz",
+              "imageUrl": "https://images.unsplash.com/photo-1516559828984-fb3b99548b21?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
+            },
+            {
+              "id": 7,
+              "title": "Rock Anthem",
+              "singer": "The Amplifiers",
+              "genre": "Rock",
+              "imageUrl": "https://th.bing.com/th/id/OIP.WMu5lG5Z3mHPNNk-JZMc_gHaHa?rs=1&pid=ImgDetMain",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Chill Lounge",
+              "singer": "Ambient Waves",
+              "genre": "Lofi",
+              "imageUrl": "https://th.bing.com/th/id/OIP.UydONHEnBiaVzj5hHPV4hwHaEK?rs=1&pid=ImgDetMain",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Classical Serenity",
+              "singer": "Orchestra Delight",
+              "genre": "Classical",
+              "imageUrl": "https://i.ytimg.com/vi/yZhK9tpkEuw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTSg9MA8=&rs=AOn4CLCZOsgGfjLiyWIqrAX7zbWM6F6AcQ",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
+            },
+            {
+              "id": 10,
+              "title": "Funky Grooves",
+              "singer": "Funk Masters",
+              "genre": "Funk",
+              "imageUrl": "https://th.bing.com/th/id/OIP.D92oNh6LJFp-_ggBW8FqOwHaHa?rs=1&pid=ImgDetMain",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Bluesy Nights",
+              "singer": "Blues Band",
+              "genre": "Blues",
+              "imageUrl": "https://i.ytimg.com/vi/f6GEmZP2QGs/maxresdefault.jpg",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Country Roads",
+              "singer": "Country Stars",
+              "genre": "Country",
+              "imageUrl": "https://th.bing.com/th/id/OIP.s6rjBd895NtmZRUwmSOYyQAAAA?rs=1&pid=ImgDetMain",
+              "songUrl": "https://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
+            }
+    ],
+    "favorities": [],
+    "playlist": []
+  }
